@@ -1,1 +1,1 @@
-# ConhecendoBootstrap
+Estou muito feliz em compartilhar com vocês a minha primeira página web feita com CSS! Ela se chama Chromatica e é inspirada no álbum da Lady Gaga. Nela, vocês podem encontrar links para as músicas, vídeos e fotos do projeto. Espero que gostem do meu trabalho e que se divirtam explorando o universo de Chromatica!
